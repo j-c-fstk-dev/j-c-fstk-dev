@@ -71,7 +71,10 @@ Always learning. Always building.
 
 ---
 
-### Welcome to my world!
+### Thanks for passing by!!!
 
-<img src="[https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" width="100%" alt="Final Animation"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600px" alt="Thanks for visiting!"/>
+</p>
+
 
