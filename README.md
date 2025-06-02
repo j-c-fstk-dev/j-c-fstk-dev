@@ -71,6 +71,7 @@ Always learning. Always building.
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### Welcome to my world!
 
-![snake gif](https://github.com/jorgecristo/jorgecristo/blob/output/github-contribution-grid-snake.svg)
+<img src="[https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" width="100%" alt="Final Animation"/>
+
