@@ -82,13 +82,57 @@ Bootcamp DIO / Deal - **Spring Boot & Angular**
 
 ### 🔧 Highlight Projects
 
-- [CRM Automations (n8n + Kommo)](https://github.com/BeRegen/crm-automations): Integrated sales automation pipeline increasing team efficiency by 30%
-- [Wellness App in Flutter](https://github.com/BeRegen/wellness-app): Cross-platform app with guided meditation and custom notifications
-- [Web3 Event Landing Page](https://github.com/jorgecristo/web3-landing): Responsive dApp front page with blockchain wallet login and on-chain registration
+<!-- Projetos em Cards (HTML no README) -->
+<h3 align="center">🔧 Destaques do Portfólio BeRegen</h3>
 
----
+<div align="center">
+  <table>
+    <tr>
+<td align="center" width="250">
+        <a href="https://github.com/BeRegen/vr-app" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=nI2IKjUXXeGP&format=png&color=000000"?raw=true" width="120" height="120"><br>
+          <strong>BeRegen VR App</strong>
+        </a>
+        <p>Experiência imersiva de realidade virtual com foco em educação e regeneração ambiental.</p>
+      </td>
+      <td align="center" width="250">
+        <a href="https://github.com/BeRegen/whatsapp-delivery-ecommerce" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=108636&format=png&color=000000" width="80" height="80"><br>
+          <strong>WhatsApp Delivery</strong>
+        </a>
+        <p>E-commerce via WhatsApp com catálogo, checkout e integração com automações.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <a href="https://github.com/BeRegen/BeRegen-Chatbot" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=ozx0sKlv3w93&format=png&color=000000" width="80" height="80"><br>
+          <strong>BeRegen Chatbot</strong>
+        </a>
+        <p>Assistente inteligente para engajamento e educação ambiental no Telegram e web.</p>
+      </td>
+      <td align="center" width="250">
+        <a href="https://github.com/BeRegen/monthlyearthday-portal" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=rHeIASNeN99k&format=png&color=000000" width="80" height="80"><br>
+          <strong>Monthly Earth Day Portal</strong>
+        </a>
+        <p>Portal de ações mensais regenerativas com conteúdo e participação comunitária.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/BeRegen/beregenapp" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=113085&format=png&color=000000" width="80" height="80"><br>
+          <strong>BeRegen App</strong>
+        </a>
+        <p>Aplicativo para conectar comunidades regenerativas e incentivar ações locais sustentáveis.</p>
+      </td>
+    </tr>
+  </table>
 
-### ✨ Quote I Live By
+___
+
+</div> Quote I Live By
 
 > "The best way to predict the future is to create it." – Peter Drucker
 
