@@ -1,97 +1,76 @@
 <!-- Banner Animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Olá%20👋%20Eu%20sou%20Jorge%20Dev!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20👋%20I'm%20Jorge%20Cristo!&animation=fadeIn&type=waving&color=0:1F4F4F,100:00CED1&height=100"/>
 </p>
 
 <!-- Saudações -->
-<h2 align="center">🚀 Desenvolvedor Fullstack | Java | Angular | Node.js | TypeScript | Atutomation</h2> 
+<h2 align="center">🌐 Fullstack Developer | Automation Specialist | Web3 & Mobile Explorer</h2>
 
 <p align="center">
-  <a href="https://github.com/alexdev"><img src="https://img.shields.io/github/followers/alexdev?label=Seguidores&style=social" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/alexdev"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:alexdev@example.com"><img src="https://img.shields.io/badge/Email-alexdev@example.com-red?style=flat&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/jorgecristo"><img src="https://img.shields.io/github/followers/jorgecristo?label=Followers&style=social" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/jorgecristo"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:jorgecristo@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-- 🎓 Formado em Engenharia de Software pela Universidade XYZ.
-- 💼 Atualmente trabalhando como Desenvolvedor Fullstack na Empresa ABC.
-- 🌐 Apaixonado por desenvolver aplicações web modernas e responsivas.
-- 🧠 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+Hello! I'm Jorge Cristo, a passionate fullstack developer and automation specialist with a creative heart and a strategic mind. I transitioned into tech after careers in tourism, commerce, and pharmaceuticals — experiences that sharpened my communication, technical thinking, and adaptability. I've studied Harvard's CS50 and built web/mobile projects integrating automation, design, and performance.
+
+Currently, I focus on:
+- Developing responsive web and mobile apps
+- Creating custom automations with **n8n**, **Zapier**, and **Kommo**
+- Integrating frontend technologies like **Angular**, **Vue**, and **React** with backend systems in **Node.js** and **Java**
+
+Always learning. Always building.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🧠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1F4F4F?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-00CED1?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3CB371?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-A6E3E9?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+![Kommo](https://img.shields.io/badge/Kommo-AFEEEE?style=for-the-badge)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexdev&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img src="https://streak-stats.demolab.com/?user=alexdev&theme=radical" alt="Contribuições">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgecristo&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=jorgecristo&theme=radical" />
 </p>
 
 ---
 
-### 📈 Atividade Recente
+### 🔧 Highlight Projects
 
-<!--START_SECTION:activity-->
-1. 💬 Comentou no issue [#123](https://github.com/usuario/repositorio/issues/123) em `repositorio`
-2. 🎉 Mergeou PR [#456](https://github.com/usuario/repositorio/pull/456) em `repositorio`
-3. 📝 Criou o issue [#789](https://github.com/usuario/repositorio/issues/789) em `repositorio`
-<!--END_SECTION:activity-->
+- [CRM Automations (n8n + Kommo)](https://github.com/jorgecristo/crm-automations): Integrated sales automation pipeline increasing team efficiency by 30%
+- [Wellness App in Flutter](https://github.com/jorgecristo/wellness-app): Cross-platform app with guided meditation and custom notifications
+- [Web3 Event Landing Page](https://github.com/jorgecristo/web3-landing): Responsive dApp front page with blockchain wallet login and on-chain registration
 
 ---
 
-### 🎯 Projetos em Destaque
+### ✨ Quote I Live By
 
-- [Aplicativo de Tarefas](https://github.com/alexdev/app-tarefas): Aplicativo web para gerenciamento de tarefas com Angular e Spring Boot.
-- [API de Produtos](https://github.com/alexdev/api-produtos): API RESTful para gerenciamento de produtos utilizando Node.js e Express.
-- [Portfólio Pessoal](https://github.com/alexdev/portfolio): Meu portfólio pessoal desenvolvido com HTML, CSS e JavaScript.
+> "The best way to predict the future is to create it." – Peter Drucker
 
 ---
 
-### 📫 Como Me Encontrar
-
-- LinkedIn: [linkedin.com/in/alexdev](https://www.linkedin.com/in/alexdev)
-- Email: [alexdev@example.com](mailto:alexdev@example.com)
-- Portfólio: [alexdev.dev](https://alexdev.dev)
-
----
-
-### 🎵 Ouvindo Agora no Spotify
+### 🧪 Spotify Now Playing
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
 
 ---
 
-### 💡 Citação Favorita
+### 🐍 GitHub Contribution Snake
 
-> "O único modo de fazer um excelente trabalho é amar o que você faz." – Steve Jobs
-
----
-
-### 🐍 Snake Game de Contribuições
-
-![Snake animation](https://github.com/alexdev/alexdev/blob/output/github-contribution-grid-snake.svg)
-
----
-
-
+![snake gif](https://github.com/jorgecristo/jorgecristo/blob/output/github-contribution-grid-snake.svg)
