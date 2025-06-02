@@ -7,9 +7,9 @@
 <h2 align="center">🌐 Fullstack Developer | Automation Specialist | Web3 & Mobile Explorer</h2>
 
 <p align="center">
-  <a href="https://github.com/jorgecristo"><img src="https://img.shields.io/github/followers/jorgecristo?label=Followers&style=social" alt="GitHub"></a>
+  <a href="https://github.com/BeRegen"><img src="https://img.shields.io/github/followers/BeRegen?label=Followers&style=social" alt="GitHub"></a>
   <a href="https://linkedin.com/in/jorgecristo"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:jorgecristo@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:beregenerative.life@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -74,21 +74,64 @@ Bootcamp DIO / Deal - **Spring Boot & Angular**
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-c-fstk-dev&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=j-c-fstk-dev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BeRegen&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=BeRegen&theme=radical" />
 </p>
 
 ---
 
-### 🔧 Highlight Projects
 
-- [CRM Automations (n8n + Kommo)](https://github.com/jorgecristo/crm-automations): Integrated sales automation pipeline increasing team efficiency by 30%
-- [Wellness App in Flutter](https://github.com/jorgecristo/wellness-app): Cross-platform app with guided meditation and custom notifications
-- [Web3 Event Landing Page](https://github.com/jorgecristo/web3-landing): Responsive dApp front page with blockchain wallet login and on-chain registration
+<!-- Projetos em Cards (HTML no README) -->
+<h3 align="center">🔧 Highlight Projects</h3>
 
----
+<div align="center">
+  <table>
+    <tr>
+<td align="center" width="250">
+        <a href="https://github.com/BeRegen/vr-app" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=nI2IKjUXXeGP&format=png&color=000000"?raw=true" width="120" height="120"><br>
+          <strong>BeRegen VR App</strong>
+        </a>
+        <p>Immersive virtual reality experience focused on education and environmental regeneration.</p>
+      </td>
+      <td align="center" width="250">
+        <a href="https://github.com/BeRegen/whatsapp-delivery-ecommerce" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=108636&format=png&color=000000" width="80" height="80"><br>
+          <strong>WhatsApp Delivery</strong>
+        </a>
+        <p>E-commerce via WhatsApp with catalog, checkout and integration with automations.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <a href="https://github.com/BeRegen/BeRegen-Chatbot" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=ozx0sKlv3w93&format=png&color=000000" width="80" height="80"><br>
+          <strong>BeRegen Chatbot</strong>
+        </a>
+        <p>Smart assistant for engagement and environmental education on Telegram and web.</p>
+      </td>
+      <td align="center" width="250">
+        <a href="https://github.com/BeRegen/monthlyearthday-portal" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=rHeIASNeN99k&format=png&color=000000" width="80" height="80"><br>
+          <strong>Monthly Earth Day Portal</strong>
+        </a>
+        <p>Portal of monthly regenerative actions with content and community participation.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/BeRegen/beregenapp" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=113085&format=png&color=000000" width="80" height="80"><br>
+          <strong>BeRegen App</strong>
+        </a>
+        <p>Application to connect regenerative communities and encourage sustainable local actions.</p>
+      </td>
+    </tr>
+  </table>
 
-### ✨ Quote I Live By
+___
+
+</div> Quote I Live By
 
 > "The best way to predict the future is to create it." – Peter Drucker
 
