@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/BeRegen"><img src="https://img.shields.io/github/followers/BeRegen?label=Followers&style=social" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/jorgecristo"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://beregenerativelife.wordpress.com/about/"><img src="https://img.shields.io/badge/🌱%20BeRegenerative%20Blog-00CED1?style=flat&logo=wordpress&logoColor=white" alt="BeRegenerative Blog"></a>
+    <a href="https://patreon.com/BeRegen?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"><img src="https://img.shields.io/badge/Support%20us%20on-Patreon-F96854?style=flat&logo=patreon&logoColor=white" alt="Patreon"></a>
   <a href="mailto:beregenerative.life@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -68,6 +69,23 @@ Bootcamp DIO / Deal - **Spring Boot & Angular**
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-222222?style=for-the-badge)
 ![Bolt](https://img.shields.io/badge/Bolt_AI-0099FF?style=for-the-badge)
 
+---
+
+### 🌱 Founder of [@BeRegen]([https://beregenerative.wordpress.com](https://beregenerativelife.wordpress.com/about/))
+
+**BeRegenerative** is my life project — a movement rooted in holistic regeneration.  
+Our mission is to **inspire, educate, and co-create** a more regenerative way of living, from the inside out.  
+We develop digital tools, regenerative apps, and content like courses and books focused on personal, ecological, and systemic renewal.
+
+> **Live regeneratively. Build regeneratively. Be regenerative.**
+
+---
+
+### 📰 Latest from the Blog
+
+🗓️ *Latest post:*  
+[The Flow of Renewal: Rivers as the Earth’s Veins and Our Path to Healing)]([https://beregenerative.wordpress.com/2025/05/28/como-comecar-uma-vida-regenerativa-guia-pratico](https://beregenerativelife.wordpress.com/2025/04/29/the-flow-of-renewal-rivers-as-the-earths-veins-and-our-path-to-healing/))  
+*"Regenerating the World one step at a time."*
 
 ---
 
