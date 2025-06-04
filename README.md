@@ -7,7 +7,7 @@
 <h2 align="center">🌐 Fullstack Developer | Automation Specialist | Web3 & Mobile Explorer</h2>
 
 <p align="center">
-  <a href="https://github.com/BeRegen"><img src="https://img.shields.io/github/followers/BeRegen?label=Followers&style=social" alt="GitHub"></a>
+  <a href="https://github.com/j-c-fstk-dev"><img src="https://img.shields.io/github/followers/j-c-fstk-dev?label=Followers&style=social" alt="GitHub"></a>
   <a href="https://beregenerativelife.wordpress.com/about/"><img src="https://img.shields.io/badge/🌱%20BeRegenerative%20Blog-00CED1?style=flat&logo=wordpress&logoColor=white" alt="BeRegenerative Blog"></a>
     <a href="https://patreon.com/BeRegen?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"><img src="https://img.shields.io/badge/Support%20us%20on-Patreon-F96854?style=flat&logo=patreon&logoColor=white" alt="Patreon"></a>
   <a href="mailto:beregenerative.life@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
