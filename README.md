@@ -97,7 +97,16 @@ We develop digital tools, regenerative apps, and content like courses and books 
 </p>
 
 ---
+### 🏆 GitHub Achievements
 
+<!-- GitHub Achievement -->
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark"/>
+  <br/>
+  <strong>Pull Shark</strong>
+</p>
+
+---
 
 <!-- Projetos em Cards (HTML no README) -->
 <h3 align="center">🔧 Highlight Projects</h3>
