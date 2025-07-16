@@ -180,3 +180,6 @@ ___
 
 <h3 align="center"> Thanks for passing by!</h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinavthedev&label=Profile+Views" alt="Profile views" />
+</div>
