@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer; FineCoding+Mindset; Open+Source+Contributor;Blockchain+Enthusiast;AI+is+the+way" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer; FineCoding+Mindset; Open+Source+Contributor;Blockchain+Enthusiast;AI+is+the+way" />
 </p>
 
 ### https://finecoding.netlify.app/
