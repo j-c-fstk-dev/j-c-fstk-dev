@@ -15,7 +15,10 @@
 
 ### https://finecoding.netlify.app/
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer; FineCoding+Mindset; Open+Source+Contributor;Blockchain+Enthusiast;AI+is+the+way" alt="Typing SVG" />
+</p>
+---
 ### 👨‍💻 About Me
 
 Hello! I'm Jorge Cristo, a passionate fullstack developer and automation specialist with a creative heart and a strategic mind. I transitioned into tech after careers in tourism, commerce, and pharmaceuticals — experiences that sharpened my communication, technical thinking, and adaptability. I've studied Harvard's CS50 and built web/mobile projects integrating automation, design, and performance.
