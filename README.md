@@ -15,21 +15,20 @@
 
 <p align="center">
   <a href="https://finecoding.netlify.app/">
-    <img src="https://img.shields.io/badge/Blog-FineCoding-black?style=for-the-badge&logo=netlify&logoColor=green" alt="Blog FineCoding">
+    <img src="https://img.shields.io/badge/Blog-FineCoding-black?style=for-the-badge&logo=netlify&logoColor=green" alt="FineCoding Blog">
   </a>
 </p>
 
 <p align="center">
   <a href="https://jcdevportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Meu%20Portfólio-Desenvolvedor-black?style=for-the-badge&logo=netlify&logoColor=green" alt="Meu Portfólio Desenvolvedor">
+    <img src="https://img.shields.io/badge/Meu%20Portfólio-Desenvolvedor-black?style=for-the-badge&logo=netlify&logoColor=green" alt="My Dev Portfolio (building)">
   </a>
 </p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=028933&center=true&vCenter=true&width=435&lines=Open+Source+Contributor+;Full+Stack+Developer+;Blockchain+Enthusiast+;Fine+Coding+Mindset+;Ai+is+the+future+)](https://git.io/typing-svg)
 ---
-https://finecoding.netlify.app/
----
+
 ### 👨‍💻 About Me
 
 Hello! I'm Jorge Cristo, a passionate fullstack developer and automation specialist with a creative heart and a strategic mind. I transitioned into tech after careers in tourism, commerce, and pharmaceuticals — experiences that sharpened my communication, technical thinking, and adaptability. I've studied Harvard's CS50 and built web/mobile projects integrating automation, design, and performance.
