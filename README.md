@@ -13,9 +13,22 @@
   <a href="mailto:beregenerative.life@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <a href="https://finecoding.netlify.app/">
+    <img src="https://img.shields.io/badge/Blog-FineCoding-black?style=for-the-badge&logo=netlify&logoColor=green" alt="Blog FineCoding">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://jcdevportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Meu%20Portfólio-Desenvolvedor-black?style=for-the-badge&logo=netlify&logoColor=green" alt="Meu Portfólio Desenvolvedor">
+  </a>
+</p>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=028933&center=true&vCenter=true&width=435&lines=Open+Source+Contributor+;Full+Stack+Developer+;Blockchain+Enthusiast+;Fine+Coding+Mindset+;Ai+is+the+future+)](https://git.io/typing-svg)
 ---
-### https://finecoding.netlify.app/
+https://finecoding.netlify.app/
 ---
 ### 👨‍💻 About Me
 
