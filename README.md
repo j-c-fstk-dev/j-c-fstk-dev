@@ -13,11 +13,8 @@
   <a href="mailto:beregenerative.life@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer; FineCoding+Mindset; Open+Source+Contributor;Blockchain+Enthusiast;AI+is+the+way" />
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=028933&center=true&vCenter=true&width=435&lines=Open+Source+Contributor+;Full+Stack+Developer+;Blockchain+Enthusiast+;Fine+Coding+Mindset+;Ai+is+the+future+)](https://git.io/typing-svg)
+---
 ### https://finecoding.netlify.app/
 ---
 ### 👨‍💻 About Me
