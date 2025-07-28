@@ -123,7 +123,7 @@ We develop digital tools, regenerative apps, and content like courses and books 
 ---
 
 <!-- Projetos em Cards (HTML no README) -->
-<h3 align="center">🔧 Highlight Projects</h3>
+<h3 align="center">🔧 Highlight Projects (outdated)</h3>
 
 <div align="center">
   <table>
