@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://finecoding.netlify.app/">
-    <img src="https://img.shields.io/badge/Blog-FineCoding-black?style=for-the-badge&logo=netlify&logoColor=green" alt="FineCoding Blog">
+    <img src="https://img.shields.io/badge/FineCoding-Blog-black?style=for-the-badge&logo=netlify&logoColor=green" alt="FineCoding Blog">
   </a>
 </p>
 
