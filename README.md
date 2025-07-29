@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://jcdevportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/MY%20Portfolio-Developer-black?style=for-the-badge&logo=netlify&logoColor=green" alt="My Dev Portfolio (building)">
+    <img src="https://img.shields.io/badge/MY%20Developer-Portfolio-black?style=for-the-badge&logo=netlify&logoColor=green" alt="My Dev Portfolio (building)">
   </a>
 </p>
 
