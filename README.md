@@ -9,7 +9,8 @@
 <p align="center">
   <a href="https://github.com/j-c-fstk-dev"><img src="https://img.shields.io/github/followers/j-c-fstk-dev?label=Followers&style=social" alt="GitHub"></a>
   <a href="https://beregenerativelife.wordpress.com/about/"><img src="https://img.shields.io/badge/🌱%20BeRegenerative%20Blog-00CED1?style=flat&logo=wordpress&logoColor=white" alt="BeRegenerative Blog"></a>
-    <a href="https://patreon.com/BeRegen?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"><img src="https://img.shields.io/badge/Support%20us%20on-Patreon-F96854?style=flat&logo=patreon&logoColor=white" alt="Patreon"></a>
+  <a href="https://patreon.com/BeRegen?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"><img src="https://img.shields.io/badge/@BeRegen-Patreon-F96854?style=flat&logo=patreon&logoColor=white" alt="Patreon"></a>
+  <a href="https://ko-fi.com/devjc"><img src="https://img.shields.io/badge/Support%20Me%20on-Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
   <a href="mailto:beregenerative.life@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -24,7 +25,6 @@
     <img src="https://img.shields.io/badge/MY%20Developer-Portfolio-black?style=for-the-badge&logo=netlify&logoColor=green" alt="My Dev Portfolio (building)">
   </a>
 </p>
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=028933&center=true&vCenter=true&width=435&lines=Open+Source+Contributor+;Full+Stack+Developer+;Blockchain+Enthusiast+;Fine+Coding+Mindset+;Ai+is+the+future+)](https://git.io/typing-svg)
 ---
