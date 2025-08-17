@@ -126,49 +126,49 @@ We develop digital tools, regenerative apps, and content like courses and books 
 <h3 align="center">🔧 Highlight Projects (outdated)</h3>
 
 <div align="center">
-  <table>
-    <tr>
+  <table>
+    <tr>
 <td align="center" width="250">
-        <a href="https://github.com/BeRegen/vr-app" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=nI2IKjUXXeGP&format=png&color=000000"?raw=true" width="120" height="120"><br>
-          <strong>BeRegen VR App</strong>
-        </a>
-        <p>Immersive virtual reality experience focused on education and environmental regeneration.</p>
-      </td>
-      <td align="center" width="250">
-        <a href="https://github.com/BeRegen/whatsapp-delivery-ecommerce" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=108636&format=png&color=000000" width="80" height="80"><br>
-          <strong>WhatsApp Delivery</strong>
-        </a>
-        <p>E-commerce via WhatsApp with catalog, checkout and integration with automations.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="250">
-        <a href="https://github.com/BeRegen/BeRegen-Chatbot" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=ozx0sKlv3w93&format=png&color=000000" width="80" height="80"><br>
-          <strong>BeRegen Chatbot</strong>
-        </a>
-        <p>Smart assistant for engagement and environmental education on Telegram and web.</p>
-      </td>
-      <td align="center" width="250">
-        <a href="https://github.com/BeRegen/monthlyearthday-portal" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=rHeIASNeN99k&format=png&color=000000" width="80" height="80"><br>
-          <strong>Monthly Earth Day Portal</strong>
-        </a>
-        <p>Portal of monthly regenerative actions with content and community participation.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <a href="https://github.com/BeRegen/beregenapp" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=113085&format=png&color=000000" width="80" height="80"><br>
-          <strong>BeRegen App</strong>
-        </a>
-        <p>Application to connect regenerative communities and encourage sustainable local actions.</p>
-      </td>
-    </tr>
-  </table>
+        <a href="https://github.com/BeRegen/vr-app" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=nI2IKjUXXeGP&format=png&color=000000"?raw=true" width="120" height="120"><br>
+          <strong>BeRegen VR App</strong>
+        </a>
+        <p>Immersive virtual reality experience focused on education and environmental regeneration.</p>
+      </td>
+      <td align="center" width="250">
+        <a href="https://github.com/BeRegen/whatsapp-delivery-ecommerce" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=108636&format=png&color=000000" width="80" height="80"><br>
+          <strong>WhatsApp Delivery</strong>
+        </a>
+        <p>E-commerce via WhatsApp with catalog, checkout and integration with automations.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <a href="https://github.com/BeRegen/BeRegen-Chatbot" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=ozx0sKlv3w93&format=png&color=000000" width="80" height="80"><br>
+          <strong>BeRegen Chatbot</strong>
+        </a>
+        <p>Smart assistant for engagement and environmental education on Telegram and web.</p>
+      </td>
+      <td align="center" width="250">
+        <a href="https://www.monthlyearthday.org" target="_blank">
+          <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1752897191/logo_med_rucrke.png" width="80" height="80"><br>
+          <strong>Monthly Earth Day Portal</strong>
+        </a>
+        <p>Portal of monthly regenerative actions with content and community participation.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/BeRegen/beregenapp" target="_blank">
+          <img src="https://img.icons8.com/?size=100&id=113085&format=png&color=000000" width="80" height="80"><br>
+          <strong>BeRegen App</strong>
+        </a>
+        <p>Application to connect regenerative communities and encourage sustainable local actions.</p>
+      </td>
+    </tr>
+  </table>
 
 ___
 
