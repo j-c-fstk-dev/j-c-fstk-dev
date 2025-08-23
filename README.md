@@ -132,9 +132,7 @@ We develop digital tools, regenerative apps, and content like courses and books 
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">Contextual SEO Engine</h4>
     <p style="color: #c9d1d9; font-size: 1em; padding-bottom: 10px; border-bottom: 1px solid #444d56; margin-bottom: 10px;">An AI-powered tool that transforms any text into a complete marketing kit, optimized for SEO, social media, and blogs.</p>
     <div>
-      <a href="https://contextual-seo-engine.netlify.app/" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">View Demo</a> |
-      <a href="https://github.com/j-c-fstk-dev/seo-engine-nextjs" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repository</a>
-    </div>
+      <a href="https://contextual-seo-engine.netlify.app/" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">View Demo</a> 
   </div>
 
   <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; min-width: 250px; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
