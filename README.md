@@ -126,75 +126,88 @@ We develop digital tools, regenerative apps, and content like courses and books 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
 
   <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <a href="https://contextual-seo-engine.netlify.app/" target="_blank">
+      <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980181/1_kyuyi2.png" alt="CSE Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+    </a>
+    <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">Contextual SEO Engine</h4>
+    <p style="color: #c9d1d9; font-size: 1em;">An AI-powered tool that transforms any text into a complete marketing kit, optimized for SEO, social media, and blogs.</p>
+    <div style="margin-top: 15px;">
+      <a href="https://contextual-seo-engine.netlify.app/" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">View Demo</a> |
+      <a href="https://github.com/j-c-fstk-dev/seo-engine-nextjs" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repository</a>
+    </div>
+  </div>
+
+  <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     <a href="https://finecoding.netlify.app/" target="_blank">
-      <img src="https://i.imgur.com/K1j11wI.png" alt="FineCoding Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+      <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980181/2_m42t6w.png" alt="FineCoding Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">FineCoding Blog</h4>
-    <p style="color: #c9d1d9; font-size: 1em;">Template de blog moderno, focado em alta performance e design elegante, com integrações de IA.</p>
+    <p style="color: #c9d1d9; font-size: 1em;">A modern, high-performance blog template with an elegant design and powerful AI integrations.</p>
     <div style="margin-top: 15px;">
-      <a href="https://finecoding.netlify.app/" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Ver Demo</a> |
-      <a href="https://github.com/j-c-fstk-dev/finecoding" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+      <a href="https://finecoding.netlify.app/" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">View Demo</a> |
+      <a href="https://github.com/j-c-fstk-dev/finecoding" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repository</a>
     </div>
   </div>
 
   <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     <a href="https://jcdevportfolio.netlify.app/" target="_blank">
-      <img src="https://i.imgur.com/L1Sj0b2.png" alt="Portfolio Icon" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+      <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980180/4_en1owh.png" alt="Portfolio Icon" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">Dev Portfolio Backend</h4>
-    <p style="color: #c9d1d9; font-size: 1em;">Backend em Flask para gerenciar mensagens do formulário de contato de um portfólio com tema Matrix.</p>
+    <p style="color: #c9d1d9; font-size: 1em;">A Flask backend to manage contact form messages for a Matrix-themed portfolio website.</p>
     <div style="margin-top: 15px;">
-      <a href="https://jcdevportfolio.netlify.app/" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Ver Demo</a> |
-      <a href="https://github.com/j-c-fstk-dev/devportfolio" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+      <a href="https://jcdevportfolio.netlify.app/" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">View Demo</a> |
+      <a href="https://github.com/j-c-fstk-dev/devportfolio" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repository</a>
     </div>
   </div>
 
   <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     <a href="https://www.monthlyearthday.org" target="_blank">
-      <img src="https://i.imgur.com/rP4Xw3U.png" alt="Monthly Earth Day Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+      <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980181/3_arvwxk.png" alt="Monthly Earth Day Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">Monthly Earth Day Portal</h4>
-    <p style="color: #c9d1d9; font-size: 1em;">Hub comunitário para ações ambientais mensais, com foco em engajamento e impacto coletivo.</p>
+    <p style="color: #c9d1d9; font-size: 1em;">A community hub for monthly environmental actions, focusing on engagement and collective impact.</p>
     <div style="margin-top: 15px;">
-      <a href="https://www.monthlyearthday.org" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Ver Demo</a> |
-      <a href="https://github.com/j-c-fstk-dev/sandbox" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+      <a href="https://www.monthlyearthday.org" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">View Demo</a> |
+      <a href="https://github.com/j-c-fstk-dev/sandbox" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repository</a>
     </div>
   </div>
 
   <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     <a href="https://github.com/j-c-fstk-dev/RegenFlixTest" target="_blank">
-      <img src="https://i.imgur.com/w8q3JtJ.png" alt="RegenFlix Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+      <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980181/5_oewxai.png" alt="RegenFlix Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">RegenFlix</h4>
-    <p style="color: #c9d1d9; font-size: 1em;">Hub de conteúdo regenerativo com painel administrativo e sistema de pagamento com Stripe.</p>
+    <p style="color: #c9d1d9; font-size: 1em;">A regenerative content hub with an admin dashboard and a payment system using Stripe.</p>
     <div style="margin-top: 15px;">
-      <a href="https://github.com/j-c-fstk-dev/RegenFlixTest" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+      <a href="https://github.com/j-c-fstk-dev/RegenFlixTest" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repository</a>
     </div>
   </div>
 
   <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     <a href="https://github.com/j-c-fstk-dev/clipvault" target="_blank">
-      <img src="https://i.imgur.com/pYVj22N.png" alt="ClipVault Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+      <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980505/clipvaut_iiaobv.png" alt="ClipVault Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">ClipVault</h4>
-    <p style="color: #c9d1d9; font-size: 1em;">Gerenciador de área de transferência com interface intuitiva e categorização automática de conteúdo.</p>
+    <p style="color: #c9d1d9; font-size: 1em;">A clipboard manager with an intuitive interface and automatic content categorization.</p>
     <div style="margin-top: 15px;">
-      <a href="https://github.com/j-c-fstk-dev/clipvault" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+      <a href="https://github.com/j-c-fstk-dev/clipvault" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repository</a>
     </div>
   </div>
   
   <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     <a href="https://github.com/j-c-fstk-dev/VolutarYou" target="_blank">
-      <img src="https://i.imgur.com/K3y7K95.png" alt="VoluntaYou Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+      <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980180/6_o09x0x.png" alt="VoluntaYou Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">VoluntaYou</h4>
-    <p style="color: #c9d1d9; font-size: 1em;">Plataforma de voluntariado que recompensa voluntários com tokens baseados em blockchain (Web3).</p>
+    <p style="color: #c9d1d9; font-size: 1em;">A volunteer platform that rewards users with blockchain-based tokens (Web3) for social contributions.</p>
     <div style="margin-top: 15px;">
-      <a href="https://github.com/j-c-fstk-dev/VolutarYou" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+      <a href="https://github.com/j-c-fstk-dev/VolutarYou" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repository</a>
     </div>
   </div>
 
 </div>
+
 
 
 ___
