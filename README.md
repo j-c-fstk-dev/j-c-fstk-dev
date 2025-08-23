@@ -129,6 +129,7 @@ We develop digital tools, regenerative apps, and content like courses and books 
     <a href="https://contextual-seo-engine.netlify.app/" target="_blank">
       <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980181/1_kyuyi2.png" alt="CSE Logo" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
+    <hr style="border: none; height: 1px; background-color: #444d56; margin: 15px 0;">
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">Contextual SEO Engine</h4>
     <p style="color: #c9d1d9; font-size: 1em; padding-bottom: 10px; border-bottom: 1px solid #444d56; margin-bottom: 10px;">An AI-powered tool that transforms any text into a complete marketing kit, optimized for SEO, social media, and blogs.</p>
     <div>
@@ -139,6 +140,7 @@ We develop digital tools, regenerative apps, and content like courses and books 
     <a href="https://finecoding.netlify.app/" target="_blank">
       <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980181/2_m42t6w.png" alt="FineCoding Logo" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
+    <hr style="border: none; height: 1px; background-color: #444d56; margin: 15px 0;">
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">FineCoding Blog</h4>
     <p style="color: #c9d1d9; font-size: 1em; padding-bottom: 10px; border-bottom: 1px solid #444d56; margin-bottom: 10px;">A modern, high-performance blog template with an elegant design and powerful AI integrations.</p>
     <div>
@@ -151,6 +153,7 @@ We develop digital tools, regenerative apps, and content like courses and books 
     <a href="https://jcdevportfolio.netlify.app/" target="_blank">
       <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980180/4_en1owh.png" alt="Portfolio Icon" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
+    <hr style="border: none; height: 1px; background-color: #444d56; margin: 15px 0;">
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">Dev Portfolio Backend</h4>
     <p style="color: #c9d1d9; font-size: 1em; padding-bottom: 10px; border-bottom: 1px solid #444d56; margin-bottom: 10px;">A Flask backend to manage contact form messages for a Matrix-themed portfolio website.</p>
     <div>
@@ -163,6 +166,7 @@ We develop digital tools, regenerative apps, and content like courses and books 
     <a href="https://www.monthlyearthday.org" target="_blank">
       <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980181/3_arvwxk.png" alt="Monthly Earth Day Logo" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
+    <hr style="border: none; height: 1px; background-color: #444d56; margin: 15px 0;">
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">Monthly Earth Day Portal</h4>
     <p style="color: #c9d1d9; font-size: 1em; padding-bottom: 10px; border-bottom: 1px solid #444d56; margin-bottom: 10px;">A community hub for monthly environmental actions, focusing on engagement and collective impact.</p>
     <div>
@@ -175,6 +179,7 @@ We develop digital tools, regenerative apps, and content like courses and books 
     <a href="https://github.com/j-c-fstk-dev/RegenFlixTest" target="_blank">
       <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980181/5_oewxai.png" alt="RegenFlix Logo" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
+    <hr style="border: none; height: 1px; background-color: #444d56; margin: 15px 0;">
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">RegenFlix</h4>
     <p style="color: #c9d1d9; font-size: 1em; padding-bottom: 10px; border-bottom: 1px solid #444d56; margin-bottom: 10px;">A regenerative content hub with an admin dashboard and a payment system using Stripe.</p>
     <div>
@@ -186,6 +191,7 @@ We develop digital tools, regenerative apps, and content like courses and books 
     <a href="https://github.com/j-c-fstk-dev/clipvault" target="_blank">
       <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980505/clipvaut_iiaobv.png" alt="ClipVault Logo" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
+    <hr style="border: none; height: 1px; background-color: #444d56; margin: 15px 0;">
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">ClipVault</h4>
     <p style="color: #c9d1d9; font-size: 1em; padding-bottom: 10px; border-bottom: 1px solid #444d56; margin-bottom: 10px;">A clipboard manager with an intuitive interface and automatic content categorization.</p>
     <div>
@@ -197,6 +203,7 @@ We develop digital tools, regenerative apps, and content like courses and books 
     <a href="https://github.com/j-c-fstk-dev/VolutarYou" target="_blank">
       <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980180/6_o09x0x.png" alt="VoluntaYou Logo" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
+    <hr style="border: none; height: 1px; background-color: #444d56; margin: 15px 0;">
     <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">VoluntaYou</h4>
     <p style="color: #c9d1d9; font-size: 1em; padding-bottom: 10px; border-bottom: 1px solid #444d56; margin-bottom: 10px;">A volunteer platform that rewards users with blockchain-based tokens (Web3) for social contributions.</p>
     <div>
