@@ -208,10 +208,6 @@ We develop digital tools, regenerative apps, and content like courses and books 
     <p style="color: #c9d1d9; font-size: 1em; padding-bottom: 10px; border-bottom: 1px solid #444d56; margin-bottom: 10px;">A volunteer platform that rewards users with blockchain-based tokens (Web3) for social contributions.</p>
     <div style="margin-bottom: 15px;">
       <a href="https://github.com/j-c-fstk-dev/VolutarYou" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repository</a>
-    </div>
-    <hr style="border: none; height: 1px; background-color: #444d56; margin: 10px 0;">
-  </div>
-
 </div>
 
 
