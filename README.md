@@ -122,53 +122,80 @@ We develop digital tools, regenerative apps, and content like courses and books 
 
 ---
 
-<!-- Projetos em Cards (HTML no README) -->
-<h3 align="center">🔧 Highlight Projects (outdated)</h3>
+<h3 align="center">🔧 Highlight Projects</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
 
-<div align="center">
-  <table>
-    <tr>
-<td align="center" width="250">
-        <a href="https://github.com/BeRegen/vr-app" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=nI2IKjUXXeGP&format=png&color=000000"?raw=true" width="120" height="120"><br>
-          <strong>BeRegen VR App</strong>
-        </a>
-        <p>Immersive virtual reality experience focused on education and environmental regeneration.</p>
-      </td>
-      <td align="center" width="250">
-        <a href="https://github.com/BeRegen/whatsapp-delivery-ecommerce" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=108636&format=png&color=000000" width="80" height="80"><br>
-          <strong>WhatsApp Delivery</strong>
-        </a>
-        <p>E-commerce via WhatsApp with catalog, checkout and integration with automations.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="250">
-        <a href="https://github.com/BeRegen/BeRegen-Chatbot" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=ozx0sKlv3w93&format=png&color=000000" width="80" height="80"><br>
-          <strong>BeRegen Chatbot</strong>
-        </a>
-        <p>Smart assistant for engagement and environmental education on Telegram and web.</p>
-      </td>
-      <td align="center" width="250">
-        <a href="https://www.monthlyearthday.org" target="_blank">
-          <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1752897191/logo_med_rucrke.png" width="80" height="80"><br>
-          <strong>Monthly Earth Day Portal</strong>
-        </a>
-        <p>Portal of monthly regenerative actions with content and community participation.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <a href="https://github.com/BeRegen/beregenapp" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=113085&format=png&color=000000" width="80" height="80"><br>
-          <strong>BeRegen App</strong>
-        </a>
-        <p>Application to connect regenerative communities and encourage sustainable local actions.</p>
-      </td>
-    </tr>
-  </table>
+  <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <a href="https://finecoding.netlify.app/" target="_blank">
+      <img src="https://i.imgur.com/K1j11wI.png" alt="FineCoding Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+    </a>
+    <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">FineCoding Blog</h4>
+    <p style="color: #c9d1d9; font-size: 1em;">Template de blog moderno, focado em alta performance e design elegante, com integrações de IA.</p>
+    <div style="margin-top: 15px;">
+      <a href="https://finecoding.netlify.app/" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Ver Demo</a> |
+      <a href="https://github.com/j-c-fstk-dev/finecoding" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+    </div>
+  </div>
+
+  <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <a href="https://jcdevportfolio.netlify.app/" target="_blank">
+      <img src="https://i.imgur.com/L1Sj0b2.png" alt="Portfolio Icon" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+    </a>
+    <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">Dev Portfolio Backend</h4>
+    <p style="color: #c9d1d9; font-size: 1em;">Backend em Flask para gerenciar mensagens do formulário de contato de um portfólio com tema Matrix.</p>
+    <div style="margin-top: 15px;">
+      <a href="https://jcdevportfolio.netlify.app/" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Ver Demo</a> |
+      <a href="https://github.com/j-c-fstk-dev/devportfolio" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+    </div>
+  </div>
+
+  <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <a href="https://www.monthlyearthday.org" target="_blank">
+      <img src="https://i.imgur.com/rP4Xw3U.png" alt="Monthly Earth Day Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+    </a>
+    <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">Monthly Earth Day Portal</h4>
+    <p style="color: #c9d1d9; font-size: 1em;">Hub comunitário para ações ambientais mensais, com foco em engajamento e impacto coletivo.</p>
+    <div style="margin-top: 15px;">
+      <a href="https://www.monthlyearthday.org" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Ver Demo</a> |
+      <a href="https://github.com/j-c-fstk-dev/sandbox" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+    </div>
+  </div>
+
+  <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <a href="https://github.com/j-c-fstk-dev/RegenFlixTest" target="_blank">
+      <img src="https://i.imgur.com/w8q3JtJ.png" alt="RegenFlix Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+    </a>
+    <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">RegenFlix</h4>
+    <p style="color: #c9d1d9; font-size: 1em;">Hub de conteúdo regenerativo com painel administrativo e sistema de pagamento com Stripe.</p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/j-c-fstk-dev/RegenFlixTest" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+    </div>
+  </div>
+
+  <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <a href="https://github.com/j-c-fstk-dev/clipvault" target="_blank">
+      <img src="https://i.imgur.com/pYVj22N.png" alt="ClipVault Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+    </a>
+    <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">ClipVault</h4>
+    <p style="color: #c9d1d9; font-size: 1em;">Gerenciador de área de transferência com interface intuitiva e categorização automática de conteúdo.</p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/j-c-fstk-dev/clipvault" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+    </div>
+  </div>
+  
+  <div style="background-color: #24292e; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 100%; max-width: 380px; box-sizing: border-box; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <a href="https://github.com/j-c-fstk-dev/VolutarYou" target="_blank">
+      <img src="https://i.imgur.com/K3y7K95.png" alt="VoluntaYou Logo" style="width: 100px; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
+    </a>
+    <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">VoluntaYou</h4>
+    <p style="color: #c9d1d9; font-size: 1em;">Plataforma de voluntariado que recompensa voluntários com tokens baseados em blockchain (Web3).</p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/j-c-fstk-dev/VolutarYou" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repositório</a>
+    </div>
+  </div>
+
+</div>
+
 
 ___
 
