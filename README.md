@@ -154,8 +154,8 @@ We develop digital tools, regenerative apps, and content like courses and books 
     <a href="https://jcdevportfolio.netlify.app/" target="_blank">
       <img src="https://res.cloudinary.com/dr0weongo/image/upload/v1755980180/4_en1owh.png" alt="Portfolio Icon" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 15px;"/>
     </a>
-    <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">Dev Portfolio Matrix Themed</h4>
-    <p style="color: #c9d1d9; font-size: 1em; padding-bottom: 10px; border-bottom: 1px solid #444d56; margin-bottom: 10px;">A Matrix-themed portfolio website.</p>
+    <h4 style="margin: 0; font-size: 1.5em; color: #56D672;">Matrix-Themed Dev Portfolio</h4>
+    <p style="color: #c9d1d9; font-size: 1em; padding-bottom: 10px; border-bottom: 1px solid #444d56; margin-bottom: 10px;">My Tradicional and Matrix-themed portfolio website.</p>
     <div style="margin-bottom: 15px;">
       <a href="https://jcdevportfolio.netlify.app/" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">View Demo</a> |
       <a href="https://github.com/j-c-fstk-dev/devportfolio" target="_blank" style="text-decoration: none; color: #2196F3; font-weight: bold;">Repository</a>
