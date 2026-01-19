@@ -296,6 +296,21 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+**💳 [PassPay](https://github.com/j-c-fstk-dev/PassPay)**
+> Gasless stablecoin payments using passkeys and account abstraction
+- **Tech:** TypeScript (96.2%), JavaScript (2.6%), React, Node.js, Web3
+- **Status:** Reference implementation
+- [Repository](https://github.com/j-c-fstk-dev/PassPay)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
