@@ -157,7 +157,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **🌐 [BeRegen Ecosystem](https://beregen.xyz)**
 > Regenerative infrastructure for communities
-- **Tech:** React, TypeScript, Node.js
+- **Tech:** TypeScript (98.8%), HTML
 - [Repository](https://github.com/j-c-fstk-dev/beregen_site)
 
 </td>
@@ -165,7 +165,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **🌍 [DeCleanup DApp](https://dapp.decleanup.net)**
 > Web3 cleanup coordination platform
-- **Tech:** Solidity, React, Celo blockchain
+- **Tech:** TypeScript (88.1%), Solidity (8.5%), React, Node.js
 - [Repository](https://github.com/j-c-fstk-dev/decleanup-main-celo)
 
 </td>
@@ -176,15 +176,15 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **🎯 [DeCleanup Mini App](https://miniapp.decleanup.net)**
 > Farcaster mini app for social cleanup
-- **Tech:** React, Farcaster API
+- **Tech:** TypeScript (71.5%), JavaScript (21.3%), Solidity (6.3%), React, Node.js
 - [Repository](https://github.com/DeCleanup-Network/Farcaster-Mini-App)
 
 </td>
 <td width="50%">
 
 **🌳 [Bass Forest](https://bassforest.earth)**
-> Regenerative forest mapping
-- **Tech:** JavaScript, Leaflet, Web3
+> Annual global electronic music festival amplifying World Environment Day through music, community and tree planting
+- **Tech:** TypeScript (94.9%), HTML
 - [Repository](https://github.com/BeRegen/bassforest)
 
 </td>
@@ -195,7 +195,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **🌱 [Monthly Earth Day](https://monthlyearthday.org)**
 > Community hub for monthly environmental actions
-- **Tech:** HTML, CSS, JavaScript
+- **Tech:** TypeScript (96.5%), CSS, React, Node.js
 - [Repository](https://github.com/j-c-fstk-dev/site-monthly-earth-day)
 
 </td>
@@ -203,7 +203,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **🤖 [Contextual SEO Engine](https://contextual-seo-engine.netlify.app)**
 > AI-powered marketing content generator
-- **Tech:** React, AI APIs
+- **Tech:** JavaScript (95.9%), CSS, HTML, React, Node.js
 - [Repository](https://github.com/j-c-fstk-dev/CSE-landing-page)
 
 </td>
@@ -214,7 +214,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **📝 [FineCoding Blog](https://finecoding.netlify.app)**
 > Modern blog template with AI integrations
-- **Tech:** HTML, CSS, JavaScript
+- **Tech:** TypeScript (89.1%), CSS (10.1%), React, Node.js
 - [Repository](https://github.com/j-c-fstk-dev/finecoding)
 
 </td>
@@ -222,7 +222,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **💼 [Dev Portfolio](https://jcdevportfolio.netlify.app)**
 > Matrix-themed developer portfolio
-- **Tech:** React, TypeScript
+- **Tech:** JavaScript (97.9%), TypeScript, React, Node.js
 - [Repository](https://github.com/j-c-fstk-dev/MyDevPortfolio)
 
 </td>
@@ -239,7 +239,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **🎓 [RegenImpactHub](https://regenimpacthub.netlify.app)**
 > Identity & impact validation for regeneration
-- **Tech:** React, TypeScript, Web3
+- **Tech:** TypeScript (99.5%), React, Node.js, Web3
 - **Status:** Beta testing
 - [Repository](https://github.com/j-c-fstk-dev/RegenImpactHub)
 
@@ -248,7 +248,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **📱 [BeRegen App](https://beregenapp.netlify.app)**
 > Daily regenerative practices web app
-- **Tech:** React, TypeScript
+- **Tech:** TypeScript (98.6%), React, Node.js
 - **Status:** MVP
 - [Repository](https://github.com/j-c-fstk-dev/BeRegen-APP)
 
@@ -260,7 +260,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **🎬 [RegenFlix](https://regenflix.netlify.app)**
 > Regenerative learning platform with Stripe
-- **Tech:** React, Node.js, Stripe API
+- **Tech:** TypeScript (51.2%), JavaScript (48%), React, Node.js, Stripe API
 - **Status:** Core features complete
 - [Repository](https://github.com/j-c-fstk-dev/RegenFlix)
 
@@ -268,8 +268,8 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 <td width="50%">
 
 **🛡️ [SubGuard AI](https://github.com/j-c-fstk-dev/subguard-ai)**
-> AI-powered subscription management
-- **Tech:** Python, Streamlit, AI
+> Intelligent subscription optimization platform that helps users save money by analyzing and managing recurring subscriptions using AI
+- **Tech:** Python (49.5%), TypeScript (46.9%), Streamlit
 - **Status:** Active development
 - [Repository](https://github.com/j-c-fstk-dev/subguard-ai)
 
@@ -281,7 +281,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **🤖 [LEAP Agent](https://github.com/j-c-fstk-dev/LEAP-Agent)**
 > AI automation agent framework
-- **Tech:** Python, LangChain
+- **Tech:** Python (100%), LangChain
 - **Status:** Prototype phase
 - [Repository](https://github.com/j-c-fstk-dev/LEAP-Agent)
 
@@ -290,7 +290,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **📋 [ClipVault](https://github.com/j-c-fstk-dev/clipvault)**
 > Smart clipboard manager with categorization
-- **Tech:** Python, Tkinter
+- **Tech:** TypeScript (93.9%), JavaScript (5.5%)
 - **Status:** Core features complete
 - [Repository](https://github.com/j-c-fstk-dev/clipvault)
 
@@ -308,7 +308,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **🤝 [VoluntaYou](https://github.com/j-c-fstk-dev/VolutarYou)**
 > Web3 volunteer platform with token rewards
-- **Tech:** Solidity, React, Web3
+- **Tech:** Python (98.5%), HTML, Solidity, Web3
 - **Status:** Concept/Mock
 - [Repository](https://github.com/j-c-fstk-dev/VolutarYou)
 
@@ -316,8 +316,8 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 <td width="50%">
 
 **🏡 [PropPilot](https://github.com/j-c-fstk-dev/PropPilot)**
-> AI-powered property management
-- **Tech:** React, AI APIs
+> Comprehensive Python script for freelancers and small agencies to manage their sales pipeline
+- **Tech:** Python (100%)
 - **Status:** Concept/Mock
 - [Repository](https://github.com/j-c-fstk-dev/PropPilot)
 
@@ -328,8 +328,8 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 <td width="50%">
 
 **🎵 [VibeLayer](https://github.com/j-c-fstk-dev/VibeLayer)**
-> Social music experience platform
-- **Tech:** React, Audio APIs
+> Free and open-source Electron desktop app for displaying stickers, images, and GIFs on your screen
+- **Tech:** JavaScript (79.2%), CSS (16.1%), HTML (4.7%), Electron
 - **Status:** Concept/Mock
 - [Repository](https://github.com/j-c-fstk-dev/VibeLayer)
 
@@ -338,7 +338,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 **📱 [RegenTaskFlow](https://github.com/j-c-fstk-dev/RegenTaskFlow)**
 > Native Android app for regenerative tasks
-- **Tech:** Kotlin, Android SDK
+- **Tech:** Kotlin (95%), Java (4.8%), Android SDK
 - **Status:** Early development
 - [Repository](https://github.com/j-c-fstk-dev/RegenTaskFlow)
 
