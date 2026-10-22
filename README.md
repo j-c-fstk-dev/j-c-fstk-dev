@@ -391,5 +391,5 @@ ___
 <h3 align="center"> Thanks for passing by!</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=j-c-fstk-dev&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=j-c-flstk-dev&label=Profile+Views&base=735&v=3" alt="Profile views" />
 </div>
