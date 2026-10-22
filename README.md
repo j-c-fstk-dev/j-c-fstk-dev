@@ -130,7 +130,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BeRegen&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=BeRegen&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=j-c-fstk-dev&theme=radical" />
 </p>
 
 ---
@@ -391,5 +391,5 @@ ___
 <h3 align="center"> Thanks for passing by!</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=j-c-flstk-dev&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=j-c-fstk-dev&label=Profile+Views" alt="Profile views" />
 </div>
