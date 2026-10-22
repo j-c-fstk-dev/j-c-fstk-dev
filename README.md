@@ -146,7 +146,7 @@ Our work is grounded in **fieldwork** across the Mantiqueira Range, Brazil — b
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO"/>
   <br/>
-  <strong>Pull Shark</strong>
+  <strong>YOLO</strong>
 </p>
 
 ---
